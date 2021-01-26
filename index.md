@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/Stivifortes/Tp2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
- [Click to Go To Labels](/docs/Labels.html)
+ [Click to Go To Labels](/docs/Labeling.html)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
