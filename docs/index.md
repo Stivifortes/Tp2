@@ -1,10 +1,26 @@
-## Welcome to GitHub Pages
+## Sharelabel Documentation
 
-You can use the [editor on GitHub](https://github.com/Stivifortes/Tp2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+> Devgo and it is acomplished!
 
- [Click to Go To Labels](./labels.html)
- 
- [Click to Go To Projects](./projects.md)
+### Table of Content:
+
+
+1. [Introduction](./intro.md)
+2. [Specifications](./spec.md)
+1. [Labels](./labels.html)
+1. [Projects](./projects.md)
+1. [Other head](./intro.md)
+2. [More here](./spec.md)
+1. [Labels](./labels.html)
+1. [Projects](./projects.md)
+1. [Introduction](./intro.md)
+2. [Specifications](./spec.md)
+1. [Labels](./labels.html)
+1. [Projects](./projects.md)
+1. [Introduction](./intro.md)
+2. [Specifications](./spec.md)
+1. [Labels](./labels.html)
+1. [Projects](./projects.md)
  
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
